@@ -119,7 +119,7 @@ export default {
         user_score.value = 0;
         computer_score.value = 0;
       }else{
-        alert(game_over.value);
+        //alert(game_over.value);
         game_over.value = false;
       }
     };
